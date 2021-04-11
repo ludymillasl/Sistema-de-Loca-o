@@ -1,2 +1,2 @@
-# Sistema-de-Loca-o
+# Sistema-de-Locacao
 Treinando habilidades
